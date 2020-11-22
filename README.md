@@ -1,4 +1,1 @@
-# Tkinter-Projects
-These are my tkinter projects.
-1. Pass Keeper
-2. Weather app
+This is a password storage desktop application that enables you to store your password safely.
