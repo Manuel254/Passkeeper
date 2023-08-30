@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version = 1.0
+Name = passkeeper
+Exec = /home/manueltechs/Desktop/PassKeeper/passtorage.py
+Icon = /home/manueltechs/Desktop/PassKeeper/images/form.jpg
+Type = Application
